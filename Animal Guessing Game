@@ -213,7 +213,7 @@ int main() {
 	// Prompting user to play game
 	string enterKey;
 	cout << "Let's play the \"Guess the Animal\" game." << endl;
-	cout << "Think of an animal and hit return when you’re ready." << endl;
+	cout << "Think of an animal and hit return when youâ€™re ready." << endl;
 	getline(cin, enterKey);
 
 	do {
